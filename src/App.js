@@ -8,8 +8,6 @@ function App() {
   return (
     <React.Fragment>
       <Box name="1" />
-      <Box name="2" />
-      <Box name="3" />
     </React.Fragment>
   );
 }
